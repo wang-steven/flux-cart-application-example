@@ -19,6 +19,6 @@
   "dependencies": {
     "es6-promise": "^2.0.0",
     "react-async": "^1.0.2",
-    "react-router-component": "^0.22.0"
+    "react-router-component": "^0.22.0" 
   }
 }
